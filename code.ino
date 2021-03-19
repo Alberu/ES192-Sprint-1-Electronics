@@ -1,7 +1,7 @@
 // constant variables
-const int inputPin = 12; // input pin for the voltage probe
-const int outputPin = 13; // output pin connected to the LED
-const int buzzerPin = 8; // output pin connected to the buzzer
+const int inputPin = 14; // input pin for the voltage probe
+const int outputPin = 1; // output pin connected to the LED
+const int buzzerPin = 2; // output pin connected to the buzzer
 
 // other variables:
 int voltage; // generated now to later be used for the voltage deteced
